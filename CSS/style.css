@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(171, 230, 191);
+}
+ h4{
+    background-color: rgb(19, 44, 27);
+    color: white;
+    text-align: center;
+ }
+ 
+ #ok, #clear_cart_btn{
+    background-color: rgb(70, 146, 117);
+    color: black;
+   
+}
+
+#ok:hover, #clear_cart_btn:hover{
+    background-color: rgb(27, 131, 58);
+    color: white;
+}
